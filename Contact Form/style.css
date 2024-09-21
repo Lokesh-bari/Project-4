@@ -1,0 +1,27 @@
+h2{
+    text-align: center;
+}
+
+#name, #email, #message , button{
+    border-radius: 20px;
+}
+
+#container{
+    width: 100%;
+    max-width: 600px;
+    padding: 20px; 
+}
+
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgb(24, 163, 163);
+}
+
+form {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(141, 139, 141);
+}
